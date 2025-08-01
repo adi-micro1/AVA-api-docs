@@ -1,2 +1,1 @@
-# Home
-::: readme.md
+../README.md
